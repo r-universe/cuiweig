@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "clinicalfair"]
+	path = clinicalfair
+	url = https://github.com/cuiweig/clinicalfair
+[submodule "survinger"]
+	path = survinger
+	url = https://github.com/cuiweig/survinger
+[submodule "syntheticdata"]
+	path = syntheticdata
+	url = https://github.com/cuiweig/syntheticdata
